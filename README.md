@@ -4,12 +4,12 @@ Silly Maze Game that allows players to upload their scores after each round play
 
 ### Screenshots
 
-![alt text](https://github.com/Brianspha/tonofmazes/screenshots/1.png?raw=true)
-![alt text](https://github.com/Brianspha/tonofmazes/screenshots/2.png?raw=true)
+![alt text](https://github.com/Brianspha/tonofmazes/blob/main/screenshots/2.png)
+![alt text](https://github.com/Brianspha/tonofmazes/blob/main/screenshots/3.png)
 
 ### Demo
 
-[![Click To Play](https://github.com/Brianspha/tonofmazes/screenshots/1.png?raw=true)](https://drive.google.com/file/d/1BfD-yTmwclvuBXnPDUbvkAOHrCvXWqTT/view?usp=sharing)
+[![Click To Play](https://github.com/Brianspha/tonofmazes/blob/main/screenshots/2.png)](https://drive.google.com/file/d/1BfD-yTmwclvuBXnPDUbvkAOHrCvXWqTT/view?usp=sharing)
 
 ## Project setup
 
